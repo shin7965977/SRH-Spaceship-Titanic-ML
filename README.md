@@ -16,7 +16,6 @@ Original data (spaceship_titanic.csv)
 - Transported - Whether the passenger was transported to another dimension. This is the target, the column you are trying to predict.
 
 
-## Suggestions from Aleksandr:
 
 ### Steps:
 #### 1. Data Extract
